@@ -57,6 +57,6 @@ LinearRegression , SVM, RandomForestRegressor, XGBoost but I have shared the cod
 
 Evaluated the model by checking RMSE value,
 XGBoost gave the best result
-that is RMSE = 1098.29
+that is RMSE = 1078.11
 
 
